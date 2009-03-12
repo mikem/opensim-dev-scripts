@@ -11,8 +11,7 @@ OpenSim.Framework.Tests.dll
 OpenSim.Framework.Communications.Tests.dll
 OpenSim.Framework.Servers.Tests.dll
 OpenSim.Region.ClientStack.LindenUDP.Tests.dll
-OpenSim.Region.ScriptEngine.Shared.Tests.dll
-OpenSim.Region.ScriptEngine.Shared.CodeTools.Tests.dll
+OpenSim.Region.ScriptEngine.Tests.dll
 OpenSim.Region.Framework.Tests.dll
 OpenSim.Region.CoreModules.Tests.dll
 OpenSim.Data.SQLite.Tests.dll
