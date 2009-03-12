@@ -13,4 +13,4 @@ then
 fi
 
 cd /home/mike/source/$2/
-rsync -avz --exclude=\.git* --exclude=\.svn --exclude=\.hg* --exclude=\.swp /home/mike/source/$1/ .
+rsync -avz -L --exclude=\.git* --exclude=\.svn --exclude=\.hg* --exclude=\.swp /home/mike/source/$1/ .
