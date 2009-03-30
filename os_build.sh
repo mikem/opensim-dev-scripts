@@ -29,4 +29,4 @@ else
 fi
 
 mono $prebuild_bin /target nant
-nant
+nant -f:OpenSim.build
