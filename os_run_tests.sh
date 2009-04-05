@@ -21,7 +21,7 @@ OpenSim.Region.Physics.OdePlugin.dll
 
 cd /home/mike/source/$1/bin
 cp Physics/OpenSim.Region.Physics.OdePlugin.dll .
-nunit-console $TEST_DLLS
+nunit-console2 $TEST_DLLS
 retval=$?
 rm OpenSim.Region.Physics.OdePlugin.dll
 exit $retval
